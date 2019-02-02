@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":false,"name":"東京 現在","order":1,"parentId":0,"scrollX":810,"scrollY":787},
+{"id":2,"expanded":true,"name":"石窟","order":2,"parentId":0,"scrollX":1157,"scrollY":519},
+{"id":3,"expanded":false,"name":"森林","order":3,"parentId":0,"scrollX":811,"scrollY":979},
+{"id":4,"expanded":false,"name":"遊牧營帳","order":4,"parentId":0,"scrollX":811,"scrollY":453}
+]
